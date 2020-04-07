@@ -1,0 +1,4 @@
+*
+!.gitignore
+!.config/nvim/init.vim
+!.config/bashconf.sh
