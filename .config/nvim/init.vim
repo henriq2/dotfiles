@@ -9,6 +9,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'terryma/vim-multiple-cursors'
 Plug 'junegunn/seoul256.vim'
 Plug 'wincent/terminus'
+Plug 'mrk21/yaml-vim'
 
 " List ends here. Plugins become visible to Vim after this call.
 call plug#end()
